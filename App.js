@@ -1,3 +1,6 @@
+//Aplicación en React-Native que muestra el precio y cotización de diferentes
+//criptomonedas en la actualidad
+
 import React, { useEffect, useState } from "react";
 import {
   View,

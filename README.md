@@ -7,11 +7,11 @@ Este proyecto es muy interesante ya que es bastante sencillo pero se pueden apre
 
 # Comandos para configuración e instalación del proyecto
 
-# Instalar paquetes
-npm install 
+### Instalar paquetes
+'npm install' 
 
-# Ejecutar servidor de desarrollo
-npm start
+### Ejecutar servidor de desarrollo
+'npm start'
 
-# Crear aplicación en un archivo para subir a hosting
-npm run build
+### Crear aplicación en un archivo para subir a hosting
+'npm run build'

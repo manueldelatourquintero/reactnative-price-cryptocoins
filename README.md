@@ -4,3 +4,5 @@ Coingecko.
 
 Este proyecto es muy interesante ya que es bastante sencillo pero se pueden aprender muchos conceptos de React Native, Expo y utilización de APIs.
 
+
+#Comandos para configuración e instalación del paquete

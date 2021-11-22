@@ -12,6 +12,3 @@ Este proyecto es muy interesante ya que es bastante sencillo pero se pueden apre
 
 ### Ejecutar servidor de desarrollo
 `npm start`
-
-### Crear aplicación en un archivo para subir a hosting
-`npm run build`
